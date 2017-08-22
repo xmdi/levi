@@ -1,6 +1,6 @@
 # Levi
 
-**prints a verse from the Gospel of Matthew (Levi).**
+**prints a verse from the Gospel of Matthew (Levi) in KJV.**
 
 dependencies: `none`
 
