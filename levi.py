@@ -9,7 +9,7 @@ while a:
             vn=l[wl][0:7].split(':')
             sr=l[wl][8:-1].replace('\r','')
             for i in range(1,10):
-                if l[wl+i][0]<>'0':
+                if l[wl+i][0]!='0':
                     sr+=' '+l[wl+i][8:-1].replace('\r','')
                 else:
                     a=0
